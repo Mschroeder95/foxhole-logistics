@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "dist/foxhole-logistics",
     "ignore": [
       "firebase.json",
       "**/.*",
